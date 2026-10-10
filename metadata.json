@@ -1,0 +1,6 @@
+{
+  "name": "ExcelSheet Studio - Custom Spreadsheet, Salary Slip & Chart Builder",
+  "description": "Desktop-grade custom spreadsheet and document builder for salary slips, data tables, formula calculations, and interactive charts with full styling and export controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
